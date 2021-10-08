@@ -23,13 +23,25 @@ The following are used to create the project:
 
 I have learned the following concepts from this tutorial:
 
-<!-- To be added -->
++ SCSS/Sass Mixins
++ SCSS/Sass Functions
++ SCSS/Sass Nesting
++ SCSS/Sass File structure
 
 ---
 ## Status
 
-Project is: **in progress**\
-Deployed: **no**
+Project is: **Complete**\
+Deployed: **[Live Here](https://devconnect-template.netlify.app/)** :earth_asia:
+
+---
+## Future Features
+
+In the future I am thinking of using this project to practice and test more skills by implementing the following features:
+
++ Maybe add some transitions
++ Change color scheme
++ Toggle light dark
 
 ---
 ## Acknowledgement
